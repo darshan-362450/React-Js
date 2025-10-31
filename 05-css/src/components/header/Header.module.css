@@ -1,0 +1,14 @@
+.header {
+  background-color:blueviolet ;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 5px;
+  border: 2px solid black;
+}
+
+.btn {
+  background-color: aqua;
+}
