@@ -32,7 +32,6 @@ const users = [
       <Section1 users={users}/>
       <Section2/>
 
-      <h1>Starts at 04:31:00</h1>
     </div>
   )
 }

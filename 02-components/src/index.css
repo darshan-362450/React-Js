@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'helvetica neue';
+ 
 }
 
 html,
@@ -12,15 +13,35 @@ body {
 }
 
 .card {
-  background-color: palevioletred;
+  background-color: orangered;
+  color: white;
   border-radius: 10px;
   margin: 20px;
   padding: 20px;
 }
 
 .navbar{
-  background-color: aquamarine;
+  background-color: white;
+  color: black;
   border-radius: 10px;
+  margin: 25px;
+  padding: 10px;
+}
+
+
+.footer {
+  background-color: white;
+  color: black;
+  margin: 25px;
+  padding: 10px;
+  border-radius: 10px;
+  font: bold;
+}
+
+.Repost {
+  background-color: green;
+  color: white;
   margin: 10px;
   padding: 10px;
+  border-radius: 10px;
 }
